@@ -6,7 +6,7 @@ const weatherAPP = (() => {
         },
         giphy: {
             addr: 'null',
-            key: 'null',
+            key: 'key',
         },
     };
     const fetchWeatherAPI = ({
