@@ -5,9 +5,8 @@ const weatherAPP = (() => {
             key: '775f80930103eb948ca48290efbf90f1',
         },
         giphy: {
-            addr: 'null',
-            key: 'null',
-            new: 'something',
+            addr: 'address',
+            key: 'key',
         },
     };
     const fetchWeatherAPI = ({
