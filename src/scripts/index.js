@@ -8,7 +8,6 @@ const weatherAPP = (() => {
             addr: 'null',
             key: 'null',
             new: 'null',
-            test: 'null',
         },
     };
     const fetchWeatherAPI = ({
