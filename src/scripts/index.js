@@ -5,13 +5,8 @@ const weatherAPP = (() => {
             key: '775f80930103eb948ca48290efbf90f1',
         },
         giphy: {
-<<<<<<< HEAD
-            addr: 'ono',
-            key: '',
-=======
             addr: 'null',
             key: 'null',
->>>>>>> parent of 0bd9521 (add key)
         },
     };
     const fetchWeatherAPI = ({
